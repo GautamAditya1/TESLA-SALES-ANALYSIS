@@ -66,3 +66,4 @@ cursor.close()
 conn.close()
 
 print("All 13 columns inserted successfully into MySQL")
+ 
