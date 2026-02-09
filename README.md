@@ -1,23 +1,15 @@
 # TESLA-SALES-ANALYSIS
-End-to-end data analysis and ETL project using Python, Pandas, and MySQL. The project covers raw CSV data cleaning, validation, exploratory analysis, and structured data loading into a relational database.
+Built an end-to-end ETL and data analysis pipeline using Python, Pandas, MySQL, and Power BI
 
-📄 About This Project
+Cleaned and preprocessed raw CSV sales data, handling missing values, schema validation, and data consistency checks
 
-This repository demonstrates a complete real-world data pipeline designed using industry best practices.
+Performed exploratory data analysis (EDA) using Jupyter Notebook to uncover trends and patterns
 
-The workflow includes:
+Automated MySQL database and table creation and loaded cleaned data using a Python-based ETL script
 
-Cleaning and preprocessing raw CSV data using Pandas
+Designed an interactive Power BI dashboard to visualize sales trends, KPIs, and region-wise performance
 
-Handling missing values, schema validation, and data consistency checks
-
-Performing exploratory data analysis using Jupyter Notebook
-
-Automatically creating MySQL databases and tables
-
-Loading cleaned data into MySQL using a Python-based ETL script
-
-The project is structured to clearly separate raw data, cleaned data, analysis, and database loading logic, making it suitable for data analyst and data engineering portfolios.
+Structured the project using industry best practices, separating raw data, transformed data, analysis, and visualization layers
 
 🛠 Tech Stack
 
@@ -25,7 +17,11 @@ Python
 
 Pandas
 
+Matplotlib
+
 MySQL
+
+Power BI
 
 VS Code
 
